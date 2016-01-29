@@ -12,4 +12,4 @@ In particular we’ll cover:
 + How to tell the browser to listen for and respond to events
 + How to get data from the user with HTML forms
 
-<a href='https://learn.co/lessons/cssi-3.1-day-3-welcome' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3.1-day-3-welcome' title='Agenda'>Agenda</a> on Learn.co and start learning to code for free.</p>
